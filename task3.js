@@ -11,4 +11,4 @@ function findAvgOddNumber(numbers) {
     const avg=sum/calc.length;
     return avg;
 }
-console.log(findAvgOddNumber([2,4,5,5,11]));
+console.log(findAvgOddNumber([3,3]));
